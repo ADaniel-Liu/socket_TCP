@@ -1,0 +1,9 @@
+﻿  stdafx.cpp
+  TCP_client.cpp
+c:\users\daneiliu\documents\c++\socket_tcp\tcp_client\tcp_client\tcp_client.cpp(36): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\daneiliu\documents\c++\socket_tcp\tcp_client\tcp_client\tcp_client.cpp(48): warning C4996: 'scanf': This function or variable may be unsafe. Consider using scanf_s instead. To disable deprecation, use _CRT_SECURE_NO_WARNINGS. See online help for details.
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\ucrt\stdio.h(1272): note: 参见“scanf”的声明
+c:\users\daneiliu\documents\c++\socket_tcp\tcp_client\tcp_client\tcp_client.cpp(18): warning C4101: “ErrorCode”: 未引用的局部变量
+  TCP_client.vcxproj -> C:\Users\DANEILIU\Documents\C++\SOCKET_TCP\TCP_client\Debug\TCP_client.exe
+  TCP_client.vcxproj -> C:\Users\DANEILIU\Documents\C++\SOCKET_TCP\TCP_client\Debug\TCP_client.pdb (Partial PDB)

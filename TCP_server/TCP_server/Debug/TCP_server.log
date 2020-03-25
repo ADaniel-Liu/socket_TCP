@@ -1,0 +1,8 @@
+﻿  TCP_server.cpp
+c:\users\daneiliu\documents\c++\socket_tcp\tcp_server\tcp_server\tcp_server.cpp(37): warning C4996: 'inet_addr': Use inet_pton() or InetPton() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1830): note: 参见“inet_addr”的声明
+c:\users\daneiliu\documents\c++\socket_tcp\tcp_server\tcp_server\tcp_server.cpp(69): warning C4996: 'inet_ntoa': Use inet_ntop() or InetNtop() instead or define _WINSOCK_DEPRECATED_NO_WARNINGS to disable deprecated API warnings
+  c:\program files (x86)\windows kits\10\include\10.0.15063.0\um\winsock2.h(1848): note: 参见“inet_ntoa”的声明
+c:\users\daneiliu\documents\c++\socket_tcp\tcp_server\tcp_server\tcp_server.cpp(19): warning C4101: “ErrorCode”: 未引用的局部变量
+  TCP_server.vcxproj -> C:\Users\DANEILIU\Documents\C++\SOCKET_TCP\TCP_server\Debug\TCP_server.exe
+  TCP_server.vcxproj -> C:\Users\DANEILIU\Documents\C++\SOCKET_TCP\TCP_server\Debug\TCP_server.pdb (Partial PDB)
